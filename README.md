@@ -1,5 +1,9 @@
 # TicTacToe-project
 
+1. First download the file in this link https://drive.google.com/file/d/1fcf3lPo0UKZdWpQyD98Co3yCavjM7MTM/view?usp=sharing
+2. Extract the file.
+3. For each project go to project structure and change the Project SDK location to the directory jbr/
+
 ### How to run
 
 #### For the server
